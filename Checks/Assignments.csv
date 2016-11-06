@@ -1,0 +1,283 @@
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\Angle.java,typeDefined,Angle,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\LocatableInterface.java,typeDefined,LocatableInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\StringScanner.java,typeDefined,StringScanner,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\Word.java,typeDefined,Word,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\Number.java,typeDefined,Number,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\Start.java,typeDefined,Start,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\Move.java,typeDefined,Move,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\Fail.java,typeDefined,Fail,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\Head.java,typeDefined,Head,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\CommandInterpreterInterface.java,typeDefined,CommandInterpreterInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\AvatarInterface.java,typeDefined,AvatarInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\HeadInterface.java,typeDefined,HeadInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\Locatable.java,typeDefined,Locatable,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\BridgeScene.java,typeDefined,BridgeScene,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\BoundedShapeInterface.java,typeDefined,BoundedShapeInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\Line.java,typeDefined,Line,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\LineInterface.java,typeDefined,LineInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\SingletonsCreator.java,typeDefined,SingletonsCreator,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\TableInterface.java,typeDefined,TableInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\Approach.java,typeDefined,Approach,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\StringShape.java,typeDefined,StringShape,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\Avatar.java,typeDefined,Avatar,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\Gorge.java,typeDefined,Gorge,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\StandingAreaInterface.java,typeDefined,StandingAreaInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\TokenNum.java,typeDefined,TokenNum,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\Say.java,typeDefined,Say,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\ScannerBeanInterface.java,typeDefined,ScannerBeanInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\GorgeInterface.java,typeDefined,GorgeInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\Quote.java,typeDefined,Quote,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\ScannerInterface.java,typeDefined,ScannerInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\Table.java,typeDefined,Table,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\Repeat.java,typeDefined,Repeat,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\AngleInterface.java,typeDefined,AngleInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,grail\StandingArea.java,typeDefined,StandingArea,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,main\Assignment7.java,typeDefined,Assignment7,main.Assignment(.*)
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\BoundedShape.java,typeDefined,BoundedShape,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\TokenWord.java,typeDefined,TokenWord,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\StringShapeInterface.java,typeDefined,StringShapeInterface,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\Pass.java,typeDefined,Pass,No Expected Tag
+0,Fri Oct 14 21:02:03 EDT 2016,true,mp\tokens\End.java,typeDefined,End,No Expected Tag
+0,Fri Oct 14 21:02:04 EDT 2016,true,grail\Angle.java,typeDefined,Angle,@Angle
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\LocatableInterface.java,typeDefined,LocatableInterface,@Locatable
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\tokens\StringScanner.java,typeDefined,StringScanner,@ScannerBean
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\tokens\Word.java,typeDefined,Word,@Word
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\tokens\Number.java,typeDefined,Number,@Number
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\tokens\Start.java,typeDefined,Start,@Start
+0,Fri Oct 14 21:02:04 EDT 2016,true,grail\AvatarInterface.java,typeDefined,AvatarInterface,@Avatar
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\Locatable.java,typeDefined,Locatable,@Locatable
+0,Fri Oct 14 21:02:04 EDT 2016,true,grail\BridgeScene.java,typeDefined,BridgeScene,@BridgeScene
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\BoundedShapeInterface.java,typeDefined,BoundedShapeInterface,@Locatable
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\BoundedShapeInterface.java,typeDefined,BoundedShapeInterface,@BoundedShape
+0,Fri Oct 14 21:02:04 EDT 2016,true,grail\SingletonsCreator.java,typeDefined,SingletonsCreator,@SingletonsCreator
+0,Fri Oct 14 21:02:04 EDT 2016,true,grail\TableInterface.java,typeDefined,TableInterface,@Table
+0,Fri Oct 14 21:02:04 EDT 2016,true,grail\Avatar.java,typeDefined,Avatar,@Avatar
+0,Fri Oct 14 21:02:04 EDT 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,@CommandInterpreter
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\tokens\TokenNum.java,typeDefined,TokenNum,@Number
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\tokens\ScannerBeanInterface.java,typeDefined,ScannerBeanInterface,@ScannerBean
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\tokens\Quote.java,typeDefined,Quote,@Quote
+0,Fri Oct 14 21:02:04 EDT 2016,true,grail\Table.java,typeDefined,Table,@Table
+0,Fri Oct 14 21:02:04 EDT 2016,true,grail\AngleInterface.java,typeDefined,AngleInterface,@Angle
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\BoundedShape.java,typeDefined,BoundedShape,@BoundedShape
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\tokens\TokenWord.java,typeDefined,TokenWord,@Word
+0,Fri Oct 14 21:02:04 EDT 2016,true,mp\tokens\End.java,typeDefined,End,@End
+1,Fri Oct 14 21:07:29 EDT 2016,true,grail\BridgeInterface.java,typeDefined,BridgeInterface,No Expected Tag
+2,Mon Oct 17 23:17:22 EDT 2016,true,main\Assignment7.java,expectedTypes,[main.Assignment(.*), @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus, @Minus, @move, @say, @rotateLeftArm, @rotateRightArm, @repeat, @define, @call, @thread, @wait, @proceedAll, @sleep, @undo, @redo, @approach, @pass, @fail, @RotatingLine, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @PaintListener, @BridgeSceneController, @CommandInterpreterController, @ObservableCommandInterpreter, @SayCommand, @MoveCommand, @PassCommand, @Animator, @AnimatingCommand, @FailCommand, @ApproachCommand, @RepeatCommand, @CommandList, @RotateLeftArm, @RotateRightArm, @Sleep, @Define, @Call, @Thread, @DefineCommand, @CallCommand, @ThreadCommand, @Parser, @ScanningException, @ParsingException, @BroadcastingClearanceManager, @SingletonsCreator, @CustomSwingTextFieldFactory, @UndoCommand, @RedoCommand]
+2,Mon Oct 17 23:17:22 EDT 2016,true,main\Assignment7.java,missingMethodCall,Assignment7, ObjectEditor.initialize:->void
+3,Mon Oct 17 23:18:58 EDT 2016,false,StandingArea,typeDefined,StandingArea,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,GorgeInterface,typeDefined,GorgeInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Word,typeDefined,Word,@Word
+3,Mon Oct 17 23:18:58 EDT 2016,false,Word,typeDefined,Word,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,BoundedShape,typeDefined,BoundedShape,@BoundedShape
+3,Mon Oct 17 23:18:58 EDT 2016,false,BoundedShape,typeDefined,BoundedShape,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Start,typeDefined,Start,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Start,typeDefined,Start,@Start
+3,Mon Oct 17 23:18:58 EDT 2016,false,StringShape,typeDefined,StringShape,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,LocatableInterface,typeDefined,LocatableInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,LocatableInterface,typeDefined,LocatableInterface,@Locatable
+3,Mon Oct 17 23:18:58 EDT 2016,false,Say,typeDefined,Say,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Repeat,typeDefined,Repeat,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,BridgeInterface,typeDefined,BridgeInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,CommandInterpreterInterface,typeDefined,CommandInterpreterInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,BridgeScene,typeDefined,BridgeScene,@BridgeScene
+3,Mon Oct 17 23:18:58 EDT 2016,false,BridgeScene,typeDefined,BridgeScene,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,StringShapeInterface,typeDefined,StringShapeInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,BoundedShapeInterface,typeDefined,BoundedShapeInterface,@Locatable
+3,Mon Oct 17 23:18:58 EDT 2016,false,BoundedShapeInterface,typeDefined,BoundedShapeInterface,@BoundedShape
+3,Mon Oct 17 23:18:58 EDT 2016,false,BoundedShapeInterface,typeDefined,BoundedShapeInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,StandingAreaInterface,typeDefined,StandingAreaInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Number,typeDefined,Number,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Number,typeDefined,Number,@Number
+3,Mon Oct 17 23:18:58 EDT 2016,false,Gorge,typeDefined,Gorge,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Pass,typeDefined,Pass,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Move,typeDefined,Move,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,AvatarInterface,typeDefined,AvatarInterface,@Avatar
+3,Mon Oct 17 23:18:58 EDT 2016,false,AvatarInterface,typeDefined,AvatarInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,StringScanner,typeDefined,StringScanner,@ScannerBean
+3,Mon Oct 17 23:18:58 EDT 2016,false,StringScanner,typeDefined,StringScanner,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,ScannerInterface,typeDefined,ScannerInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,CommandInterpreter,typeDefined,CommandInterpreter,@CommandInterpreter
+3,Mon Oct 17 23:18:58 EDT 2016,false,CommandInterpreter,typeDefined,CommandInterpreter,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Fail,typeDefined,Fail,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,TokenWord,typeDefined,TokenWord,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,TokenWord,typeDefined,TokenWord,@Word
+3,Mon Oct 17 23:18:58 EDT 2016,false,Head,typeDefined,Head,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,TableInterface,typeDefined,TableInterface,@Table
+3,Mon Oct 17 23:18:58 EDT 2016,false,TableInterface,typeDefined,TableInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,TokenNum,typeDefined,TokenNum,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,TokenNum,typeDefined,TokenNum,@Number
+3,Mon Oct 17 23:18:58 EDT 2016,false,Table,typeDefined,Table,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Table,typeDefined,Table,@Table
+3,Mon Oct 17 23:18:58 EDT 2016,false,RunTests,typeDefined,RunTests,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,LineInterface,typeDefined,LineInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Avatar,typeDefined,Avatar,@Avatar
+3,Mon Oct 17 23:18:58 EDT 2016,false,Avatar,typeDefined,Avatar,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Line,typeDefined,Line,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Quote,typeDefined,Quote,@Quote
+3,Mon Oct 17 23:18:58 EDT 2016,false,Quote,typeDefined,Quote,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,SingletonsCreator,typeDefined,SingletonsCreator,@SingletonsCreator
+3,Mon Oct 17 23:18:58 EDT 2016,false,SingletonsCreator,typeDefined,SingletonsCreator,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Angle,typeDefined,Angle,@Angle
+3,Mon Oct 17 23:18:58 EDT 2016,false,Angle,typeDefined,Angle,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,ScannerBeanInterface,typeDefined,ScannerBeanInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,ScannerBeanInterface,typeDefined,ScannerBeanInterface,@ScannerBean
+3,Mon Oct 17 23:18:58 EDT 2016,false,AngleInterface,typeDefined,AngleInterface,@Angle
+3,Mon Oct 17 23:18:58 EDT 2016,false,AngleInterface,typeDefined,AngleInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,HeadInterface,typeDefined,HeadInterface,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,Approach,typeDefined,Approach,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,End,typeDefined,End,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,false,End,typeDefined,End,@End
+3,Mon Oct 17 23:18:58 EDT 2016,false,Locatable,typeDefined,Locatable,@Locatable
+3,Mon Oct 17 23:18:58 EDT 2016,false,Locatable,typeDefined,Locatable,No Expected Tag
+3,Mon Oct 17 23:18:58 EDT 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,No Expected Tag
+5,Mon Oct 17 23:20:25 EDT 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,@CommandInterpreter
+7,Mon Oct 17 23:24:14 EDT 2016,true,grail\Angle.java,typeDefined,Angle,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,mp\LocatableInterface.java,typeDefined,LocatableInterface,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,mp\tokens\StringScanner.java,typeDefined,StringScanner,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,mp\tokens\Word.java,typeDefined,Word,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,mp\tokens\Number.java,typeDefined,Number,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,mp\tokens\Start.java,typeDefined,Start,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,mp\tokens\Move.java,typeDefined,Move,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,mp\tokens\Fail.java,typeDefined,Fail,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,mp\Head.java,typeDefined,Head,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,grail\CommandInterpreterInterface.java,typeDefined,CommandInterpreterInterface,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,grail\AvatarInterface.java,typeDefined,AvatarInterface,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,mp\HeadInterface.java,typeDefined,HeadInterface,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,mp\Locatable.java,typeDefined,Locatable,No Expected Tag
+7,Mon Oct 17 23:24:14 EDT 2016,true,grail\BridgeScene.java,typeDefined,BridgeScene,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\BoundedShapeInterface.java,typeDefined,BoundedShapeInterface,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\Line.java,typeDefined,Line,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\LineInterface.java,typeDefined,LineInterface,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,grail\SingletonsCreator.java,typeDefined,SingletonsCreator,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,grail\TableInterface.java,typeDefined,TableInterface,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\tokens\Approach.java,typeDefined,Approach,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\StringShape.java,typeDefined,StringShape,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,grail\Avatar.java,typeDefined,Avatar,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,grail\Gorge.java,typeDefined,Gorge,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,grail\StandingAreaInterface.java,typeDefined,StandingAreaInterface,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\tokens\TokenNum.java,typeDefined,TokenNum,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\tokens\Say.java,typeDefined,Say,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\tokens\ScannerBeanInterface.java,typeDefined,ScannerBeanInterface,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,grail\GorgeInterface.java,typeDefined,GorgeInterface,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\tokens\Quote.java,typeDefined,Quote,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\tokens\ScannerInterface.java,typeDefined,ScannerInterface,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,grail\BridgeInterface.java,typeDefined,BridgeInterface,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,grail\Table.java,typeDefined,Table,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\tokens\Repeat.java,typeDefined,Repeat,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,grail\AngleInterface.java,typeDefined,AngleInterface,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,grail\StandingArea.java,typeDefined,StandingArea,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\BoundedShape.java,typeDefined,BoundedShape,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\tokens\TokenWord.java,typeDefined,TokenWord,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\StringShapeInterface.java,typeDefined,StringShapeInterface,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\tokens\Pass.java,typeDefined,Pass,No Expected Tag
+7,Mon Oct 17 23:24:15 EDT 2016,true,mp\tokens\End.java,typeDefined,End,No Expected Tag
+8,Mon Oct 17 23:28:06 EDT 2016,true,grail\Angle.java,typeDefined,Angle,@Angle
+8,Mon Oct 17 23:28:10 EDT 2016,true,grail\AngleInterface.java,expectedTypes,[main.Assignment(.*), @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus, @Minus, @move, @say, @rotateLeftArm, @rotateRightArm, @repeat, @define, @call, @thread, @wait, @proceedAll, @sleep, @undo, @redo, @approach, @pass, @fail, @RotatingLine, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @PaintListener, @BridgeSceneController, @CommandInterpreterController, @ObservableCommandInterpreter, @SayCommand, @MoveCommand, @PassCommand, @Animator, @AnimatingCommand, @FailCommand, @ApproachCommand, @RepeatCommand, @CommandList, @RotateLeftArm, @RotateRightArm, @Sleep, @Define, @Call, @Thread, @DefineCommand, @CallCommand, @ThreadCommand, @Parser, @ScanningException, @ParsingException, @BroadcastingClearanceManager, @SingletonsCreator, @CustomSwingTextFieldFactory, @UndoCommand, @RedoCommand]
+8,Mon Oct 17 23:28:10 EDT 2016,true,grail\AngleInterface.java,typeDefined,AngleInterface,@Angle
+9,Thu Oct 27 22:32:57 EDT 2016,true,mp\BoundedShape.java,typeDefined,BoundedShape,@BoundedShape
+10,Thu Oct 27 22:35:42 EDT 2016,true,mp\APropertyListenerSupport.java,typeDefined,APropertyListenerSupport,No Expected Tag
+11,Thu Oct 27 22:36:24 EDT 2016,true,mp\PropertyListenerSupport.java,typeDefined,PropertyListenerSupport,No Expected Tag
+17,Fri Oct 28 17:22:59 EDT 2016,true,mp\LocatableInterface.java,typeDefined,LocatableInterface,@Locatable
+18,Fri Oct 28 17:45:36 EDT 2016,true,mp\Locatable.java,typeDefined,Locatable,@Locatable
+19,Fri Nov 04 17:37:58 EDT 2016,true,grail\SingletonsCreator.java,typeDefined,SingletonsCreator,SingletonsCreator
+20,Fri Nov 04 17:38:45 EDT 2016,true,main\Assignment9.java,typeDefined,Assignment9,main.Assignment9
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,expectedTypes,[main.Assignment9, @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus//EC, @Minus//EC, ScanningIterator//EC, @RotatingLine//EC, @Move, @Pass, @Fail, @Say, @RotateLeftArm//EC, @RotateRightArm//EC, @Repeat//EC, @Define//EC, @Call//EC, @Thread//EC, @Wait//EC, @ProceedAll//EC, @Sleep//EC, @Undo//EC, @Redo//EC, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @SignedMoveCommandInterpreter//EC, @ErrorResilientCommandInterpreter//EC, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @DelegatingBridgeSceneView, @PaintListener, @BridgeSceneController, @CommandInterpreterController//EC, @ObservableCommandInterpreter//EC, @Token, SingletonsCreator]
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,grail.*,Assignment9
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,mp.tokens.*,Assignment9
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,java.awt.Component,Assignment9
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,grail.InheritingBridgeScenePainter,Assignment9
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,grail.BridgeSceneControllerInterface,Assignment9
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,grail.BridgeSceneController,Assignment9
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,variableHasClassType,Assignment9,InheritingBridgeScenePainter,scene
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,missingMethodCall,Assignment9,               (.*)!sleep:long->void 
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,missingMethodCall,Assignment9,       (.*)!setCommand:String->* 
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,missingMethodCall,Assignment9,            @SingletonsCreator!bridgeSceneFactoryMethod:->@BridgeScene 
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,missingMethodCall,Assignment9,       @SingletonsCreator!delegatingBridgeScenePainterFactoryMethod:->@BridgeScene//EC 
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,missingMethodCall,Assignment9,        @SingletonsCreator!@commandInterpreterControllerFactoryMethod:->@CommandInterpreterController/EC 
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,missingMethodCall,Assignment9,       @SingletonsCreator!@commandInterpreterViewFactoryMethod:->@CommandInterpreterView       ThreadSupport!sleep:long->void 
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,missingMethodCall,Assignment9,       (.*)!@move:int;int->* 
+22,Fri Nov 04 17:41:29 EDT 2016,true,main\Assignment9.java,missingMethodCall,Assignment9,       (.*)!setText:String->void
+23,Fri Nov 04 17:42:36 EDT 2016,false,Repeat,typeDefined,Repeat,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Pass,typeDefined,Pass,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Line,typeDefined,Line,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,ScannerBeanInterface,typeDefined,ScannerBeanInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,StandingArea,typeDefined,StandingArea,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,TableInterface,typeDefined,TableInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Start,typeDefined,Start,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,StandingAreaInterface,typeDefined,StandingAreaInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,End,typeDefined,End,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Number,typeDefined,Number,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,TokenNum,typeDefined,TokenNum,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,LineInterface,typeDefined,LineInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Avatar,typeDefined,Avatar,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,LocatableInterface,typeDefined,LocatableInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,LocatableInterface,typeDefined,LocatableInterface,@Locatable
+23,Fri Nov 04 17:42:36 EDT 2016,false,AngleInterface,typeDefined,AngleInterface,@Angle
+23,Fri Nov 04 17:42:36 EDT 2016,false,AngleInterface,typeDefined,AngleInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Assignment7,typeDefined,Assignment7,main.Assignment(.*)
+23,Fri Nov 04 17:42:36 EDT 2016,false,Assignment7,missingMethodCall,Assignment7, ObjectEditor.initialize:->void
+23,Fri Nov 04 17:42:36 EDT 2016,false,StringShape,typeDefined,StringShape,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,BridgeInterface,typeDefined,BridgeInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,SingletonsCreator,typeDefined,SingletonsCreator,SingletonsCreator
+23,Fri Nov 04 17:42:36 EDT 2016,false,SingletonsCreator,typeDefined,SingletonsCreator,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,GorgeInterface,typeDefined,GorgeInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,CommandInterpreter,typeDefined,CommandInterpreter,@CommandInterpreter
+23,Fri Nov 04 17:42:36 EDT 2016,false,CommandInterpreter,typeDefined,CommandInterpreter,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,RunTests,typeDefined,RunTests,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,HeadInterface,typeDefined,HeadInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Approach,typeDefined,Approach,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,BoundedShapeInterface,typeDefined,BoundedShapeInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,AvatarInterface,typeDefined,AvatarInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Head,typeDefined,Head,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,APropertyListenerSupport,typeDefined,APropertyListenerSupport,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Gorge,typeDefined,Gorge,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,ScannerInterface,typeDefined,ScannerInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Quote,typeDefined,Quote,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Word,typeDefined,Word,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,BoundedShape,typeDefined,BoundedShape,@BoundedShape
+23,Fri Nov 04 17:42:36 EDT 2016,false,BoundedShape,typeDefined,BoundedShape,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,BridgeScene,typeDefined,BridgeScene,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,StringShapeInterface,typeDefined,StringShapeInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Fail,typeDefined,Fail,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Locatable,typeDefined,Locatable,@Locatable
+23,Fri Nov 04 17:42:36 EDT 2016,false,Locatable,typeDefined,Locatable,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,TokenWord,typeDefined,TokenWord,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Table,typeDefined,Table,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Angle,typeDefined,Angle,@Angle
+23,Fri Nov 04 17:42:36 EDT 2016,false,Angle,typeDefined,Angle,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,[main.Assignment(.*),expectedTypes,[main.Assignment(.*), @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus, @Minus, @move, @say, @rotateLeftArm, @rotateRightArm, @repeat, @define, @call, @thread, @wait, @proceedAll, @sleep, @undo, @redo, @approach, @pass, @fail, @RotatingLine, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @PaintListener, @BridgeSceneController, @CommandInterpreterController, @ObservableCommandInterpreter, @SayCommand, @MoveCommand, @PassCommand, @Animator, @AnimatingCommand, @FailCommand, @ApproachCommand, @RepeatCommand, @CommandList, @RotateLeftArm, @RotateRightArm, @Sleep, @Define, @Call, @Thread, @DefineCommand, @CallCommand, @ThreadCommand, @Parser, @ScanningException, @ParsingException, @BroadcastingClearanceManager, @SingletonsCreator, @CustomSwingTextFieldFactory, @UndoCommand, @RedoCommand]
+23,Fri Nov 04 17:42:36 EDT 2016,false,StringScanner,typeDefined,StringScanner,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,PropertyListenerSupport,typeDefined,PropertyListenerSupport,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Say,typeDefined,Say,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,CommandInterpreterInterface,typeDefined,CommandInterpreterInterface,No Expected Tag
+23,Fri Nov 04 17:42:36 EDT 2016,false,Move,typeDefined,Move,No Expected Tag
+28,Fri Nov 04 17:54:25 EDT 2016,false,Assignment9,variableHasClassType,Assignment9,InheritingBridgeScenePainter,scene
+30,Fri Nov 04 18:02:54 EDT 2016,true,grail\SingletonsCreator.java,typeDefined,SingletonsCreator,SingletonsCreator
+33,Fri Nov 04 18:07:49 EDT 2016,true,main\Assignment9.java,magic.number,Assignment9,10,EXPR 10 , EXPR 20
+33,Fri Nov 04 18:07:49 EDT 2016,true,main\Assignment9.java,magic.number,Assignment9,20,EXPR 10 , EXPR 20
+33,Fri Nov 04 18:07:49 EDT 2016,true,main\Assignment9.java,magic.number,Assignment9,100,EXPR 100 , EXPR 200
+33,Fri Nov 04 18:07:49 EDT 2016,true,main\Assignment9.java,magic.number,Assignment9,200,EXPR 100 , EXPR 200
+34,Fri Nov 04 18:11:22 EDT 2016,false,Assignment9,illegalTypeImported,Assignment9,grail.InheritingBridgeScenePainter,Assignment9
+34,Fri Nov 04 18:11:22 EDT 2016,false,Assignment9,missingMethodCall,Assignment9,       (.*)!setText:String->void
+34,Fri Nov 04 18:11:22 EDT 2016,false,Assignment9,illegalTypeImported,Assignment9,grail.BridgeSceneControllerInterface,Assignment9
+34,Fri Nov 04 18:11:22 EDT 2016,false,Assignment9,illegalTypeImported,Assignment9,grail.BridgeSceneController,Assignment9
+34,Fri Nov 04 18:11:22 EDT 2016,false,SingletonsCreator,typeDefined,SingletonsCreator,SingletonsCreator
+34,Fri Nov 04 18:11:22 EDT 2016,true,grail\AvatarInterface.java,typeDefined,AvatarInterface,@Avatar
+36,Fri Nov 04 18:14:38 EDT 2016,true,grail\Avatar.java,typeDefined,Avatar,@Avatar
+39,Fri Nov 04 18:16:06 EDT 2016,true,grail\BridgeSceneController.java,typeDefined,BridgeSceneController,@BridgeSceneController
+40,Fri Nov 04 18:17:58 EDT 2016,true,grail\BridgeScene.java,typeDefined,BridgeScene,@BridgeScene
+43,Fri Nov 04 18:25:28 EDT 2016,true,grail\BridgeInterface.java,typeDefined,BridgeInterface,@BridgeScene
+54,Fri Nov 04 18:42:55 EDT 2016,true,main\Assignment9.java,missingMethodCall,Assignment9,       (.*)!setText:String->void
+55,Fri Nov 04 18:43:04 EDT 2016,false,BridgeSceneController,typeDefined,BridgeSceneController,@BridgeSceneController
+55,Fri Nov 04 18:43:04 EDT 2016,false,Avatar,typeDefined,Avatar,@Avatar
+55,Fri Nov 04 18:43:04 EDT 2016,false,Assignment9,magic.number,Assignment9,100,EXPR 100 , EXPR 200
+55,Fri Nov 04 18:43:04 EDT 2016,false,Assignment9,magic.number,Assignment9,20,EXPR 10 , EXPR 20
+55,Fri Nov 04 18:43:04 EDT 2016,false,Assignment9,magic.number,Assignment9,200,EXPR 100 , EXPR 200
+55,Fri Nov 04 18:43:04 EDT 2016,false,Assignment9,magic.number,Assignment9,10,EXPR 10 , EXPR 20
+55,Fri Nov 04 18:43:04 EDT 2016,false,BridgeInterface,typeDefined,BridgeInterface,@BridgeScene
+55,Fri Nov 04 18:43:04 EDT 2016,false,AvatarInterface,typeDefined,AvatarInterface,@Avatar
+55,Fri Nov 04 18:43:04 EDT 2016,false,BridgeScene,typeDefined,BridgeScene,@BridgeScene
+57,Fri Nov 04 18:49:31 EDT 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag

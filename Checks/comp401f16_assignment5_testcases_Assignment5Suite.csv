@@ -1,0 +1,2 @@
+#,Time,%Passes,Change,Test,Pass,Partial,Fail,Untested
+0,Fri Sep 30 20:13:14 EDT 2016,66,66,Assignment5Suite,AngleMoveLeftLineTestCase+ AngleMoveRightLineTestCase+ BridgeSceneArthurMoveHeadTestCase+ BridgeSceneArthurMoveLeftArmTestCase+ BridgeSceneArthurMoveRightLegTestCase+ BridgeSceneArthurMoveStringShapeTestCase+ , ,BridgeSceneArthurScaleHeadTestCase- BridgeSceneArthurScaleLeftArmTestCase- BridgeSceneArthurScaleRightLegTestCase- , ,
